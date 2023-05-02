@@ -405,6 +405,7 @@ namespace pxtlora {
         setSetupMode()
         e32auxTimeout(100)
         serial.writeBuffer(cmdBuffer)
+        basic.pause(10)
         setNormalMode()
         e32auxTimeout(100)
     }
