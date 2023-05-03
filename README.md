@@ -1,5 +1,5 @@
 
- Original project: [https://alexandrefrolov.github.io/pxt-lora/]
+ Original project: [https://github.com/AlexandreFrolov/pxt-lora]
  Modified to fix setup issues.
 
 
