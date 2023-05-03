@@ -1,29 +1,21 @@
 
-> Open this page at [https://alexandrefrolov.github.io/pxt-lora/](https://alexandrefrolov.github.io/pxt-lora/)
+ Original project: [https://alexandrefrolov.github.io/pxt-lora/]
+ Modified to fix setup issues.
 
-## Использовать это расширение
 
 This repository can be added as an **extension** in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/alexandrefrolov/pxt-lora** and import
-
-## Править этот проект ![Build status badge](https://github.com/alexandrefrolov/pxt-lora/workflows/MakeCode/badge.svg)
+* search for **https://github.com/SCjoh/pxt-lora** and import
 
 To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/alexandrefrolov/pxt-lora** and click import
+* paste **https://github.com/SCjoh/pxt-lora** and click import
 
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/alexandrefrolov/pxt-lora/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
